@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @claudia-burada
 - 👀 I’m open to learning, especially in the IT field.
-- 🌱 I’m currently learning C++ (algorithmic problem solving), Java & Sql.
+- 🌱 I learned UI/UX Designer.
+- 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate in the IT industry.
 - 📫 How to reach me, email address: buradaclaudia92@gmail.com
 
